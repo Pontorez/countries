@@ -2,6 +2,9 @@
 
 [![License](https://img.shields.io/badge/license-WTFPL-lightgrey.svg)](https://github.com/Pontorez/const/blob/master/LICENSE)
 
+#### Афганистан
+* [Наказание за употребление спиртного](http://rus.azattyq.org/a/24546666.html)
+
 #### Барбадос
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 

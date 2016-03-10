@@ -18,6 +18,9 @@
 #### КНДР (Северная Корея)
 * [Диктатура, нарушение прав человека](https://geektimes.ru/post/283392/#comment_9733462)
 
+#### Мавритания
+* [Побивание камнями за однополые отношения](http://www.independent.co.uk/news/world/gay-lesbian-bisexual-relationships-illegal-in-74-countries-a7033666.html#gallery)
+
 #### ОАЭ
 * [Наказание за употребление алкоголя](https://chatru.com/index.php/topic,173444.0.html)
 

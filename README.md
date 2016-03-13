@@ -24,5 +24,8 @@
 #### ОАЭ
 * [Наказание за употребление алкоголя](https://chatru.com/index.php/topic,173444.0.html)
 
+#### Узбекистан
+* [Выездные визы](https://centre1.com/uzbekistan/uzbekistantsy-trebuyut-ot-mirziyoeva-otmenit-vyezdnye-stikery/)
+
 #### Эфиопия
 * [15 лет тюрьмы за использование Skype](http://www.3dnews.ru/631001)

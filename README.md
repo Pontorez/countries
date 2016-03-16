@@ -21,6 +21,9 @@
 #### Мавритания
 * [Побивание камнями за однополые отношения](http://www.independent.co.uk/news/world/gay-lesbian-bisexual-relationships-illegal-in-74-countries-a7033666.html#gallery)
 
+#### Малайзия
+* [25 лет тюрьмы за гомосексуализм](http://paperpaper.ru/once-in-kuala-lumpur/)
+
 #### ОАЭ
 * [Наказание за употребление алкоголя](https://chatru.com/index.php/topic,173444.0.html)
 

@@ -15,6 +15,9 @@
 * [Наказание за употребление алкоголя](http://regions.ru/news/2397147/)
 * [Отрубание руки за воровство](http://www.religare.ru/2_90512.html)
 
+#### Катар
+* [Наказание за употребление алкоголя и внебрачные половые связи](http://gosindex.ru/news/iznasilovannaya-gollandka-byla-osuzhdena-za-vnebrachnuyu-svyaz)
+
 #### КНДР (Северная Корея)
 * [Диктатура, нарушение прав человека](https://geektimes.ru/post/283392/#comment_9733462)
 

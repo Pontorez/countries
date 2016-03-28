@@ -36,6 +36,9 @@
 #### Танзания
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 
+#### Турция
+* Диктатор Эрдоган
+
 #### Узбекистан
 * [Выездные визы](https://centre1.com/uzbekistan/uzbekistantsy-trebuyut-ot-mirziyoeva-otmenit-vyezdnye-stikery/)
 

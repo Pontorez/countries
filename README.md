@@ -11,6 +11,9 @@
 #### Беларусь
 * Диктатура, [блокировка Tor](https://geektimes.ru/post/283392/)
 
+#### Вьетнам
+* [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+
 #### Йемен
 * [Наказание за употребление алкоголя](http://regions.ru/news/2397147/)
 * [Отрубание руки за воровство](http://www.religare.ru/2_90512.html)

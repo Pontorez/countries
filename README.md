@@ -39,6 +39,9 @@
 #### ОАЭ
 * [Наказание за употребление алкоголя](https://chatru.com/index.php/topic,173444.0.html)
 
+#### Сингапур
+* [Штрафы за еду в общественном месте и жевание жвачки](http://zib.com.ua/ru/118488-kak_zhivetsya_v_strane_priznannoy_luchshey_dlya_inostrancev.html)
+
 #### Танзания
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 

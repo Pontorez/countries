@@ -21,6 +21,9 @@
 #### Казахстан
 * [Блокировка Tor](https://geektimes.ru/post/283392/#comment_9733462)
 
+#### Камбоджа
+* [Низкий уровень жизни](http://macos.livejournal.com/1411033.html)
+
 #### Катар
 * [Наказание за употребление алкоголя и внебрачные половые связи](http://gosindex.ru/news/iznasilovannaya-gollandka-byla-osuzhdena-za-vnebrachnuyu-svyaz)
 

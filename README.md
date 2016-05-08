@@ -45,6 +45,9 @@
 #### Сингапур
 * [Штрафы за еду в общественном месте и жевание жвачки](http://zib.com.ua/ru/118488-kak_zhivetsya_v_strane_priznannoy_luchshey_dlya_inostrancev.html)
 
+#### Сомали
+* [3 года тюрьмы за однополые отношения](http://www.independent.co.uk/news/world/gay-lesbian-bisexual-relationships-illegal-in-74-countries-a7033666.html#gallery)
+
 #### Танзания
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 

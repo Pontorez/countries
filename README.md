@@ -14,6 +14,9 @@
 #### Вьетнам
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 
+#### Индонезия
+* [Наказание за азартные игры](http://thailand-news.ru/news/aziya/srednevekovye-nakazaniya-slishkom-zhestoko-dlya-asean)
+
 #### Йемен
 * [Наказание за употребление алкоголя](http://regions.ru/news/2397147/)
 * [Отрубание руки за воровство](http://www.religare.ru/2_90512.html)

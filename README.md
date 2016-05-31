@@ -63,6 +63,9 @@
 #### Турция
 * Диктатор Эрдоган
 
+#### Уганда
+* [Наказание за однополый секс](http://zib.com.ua/ru/76090-ot_gomoseksualizma_v_nigerii_izbavlyayutsya_s_pomoschyu_plet.html)
+
 #### Узбекистан
 * [Выездные визы](https://centre1.com/uzbekistan/uzbekistantsy-trebuyut-ot-mirziyoeva-otmenit-vyezdnye-stikery/)
 

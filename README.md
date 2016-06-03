@@ -14,6 +14,9 @@
 #### Вьетнам
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 
+#### Египет
+* [Наказание за распивание алкогольных напитков](http://islam.ru/news/2013-04-23/7598)
+
 #### Индонезия
 * [Наказание за азартные игры](http://thailand-news.ru/news/aziya/srednevekovye-nakazaniya-slishkom-zhestoko-dlya-asean)
 

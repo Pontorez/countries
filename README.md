@@ -65,6 +65,9 @@
 #### Танзания
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 
+#### Тунис
+* [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+
 #### Туркменистан
 * [Цензура Интернета, культ личности](http://varlamov.ru/1640740.html)
 

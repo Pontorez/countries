@@ -80,5 +80,8 @@
 #### Узбекистан
 * [Выездные визы](https://centre1.com/uzbekistan/uzbekistantsy-trebuyut-ot-mirziyoeva-otmenit-vyezdnye-stikery/)
 
+#### Украина
+* [Минимальная зарплата — 58 EUR в месяц (1600 UAH)](https://github.com/Pontorez/const)
+
 #### Эфиопия
 * [15 лет тюрьмы за использование Skype](http://www.3dnews.ru/631001)

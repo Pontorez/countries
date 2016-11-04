@@ -65,6 +65,11 @@
 #### Россия
 * [Проблемы с соблюдением Конституции](https://github.com/Pontorez/const)
 
+#### Саудовская Аравия
+* [Смертная казнь за богохульство, гомосексуализм, etc](https://russian.rt.com/article/70233)
+* [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+* [Женщинам запрещено садиться за руль](https://auto.mail.ru/article/53442-zhenshchin_za_rulem_priravnyali_k_terroristam/)
+
 #### Сингапур
 * [Штрафы за еду в общественном месте и жевание жвачки](http://zib.com.ua/ru/118488-kak_zhivetsya_v_strane_priznannoy_luchshey_dlya_inostrancev.html)
 

@@ -44,6 +44,9 @@
 #### Катар
 * [Наказание за употребление алкоголя и внебрачные половые связи](http://gosindex.ru/news/iznasilovannaya-gollandka-byla-osuzhdena-za-vnebrachnuyu-svyaz)
 
+#### КНР (Китай)
+* [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+
 #### КНДР (Северная Корея)
 * [Диктатура, нарушение прав человека](https://geektimes.ru/post/283392/#comment_9733462)
 

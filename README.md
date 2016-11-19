@@ -68,6 +68,9 @@
 #### ОАЭ
 * [Наказание за употребление алкоголя](https://chatru.com/index.php/topic,173444.0.html)
 
+#### Пакистан
+* [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
+
 #### Россия
 * [Проблемы с соблюдением Конституции](https://github.com/Pontorez/const)
 

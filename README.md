@@ -85,6 +85,10 @@
 #### Сомали
 * [3 года тюрьмы за однополые отношения](http://www.independent.co.uk/news/world/gay-lesbian-bisexual-relationships-illegal-in-74-countries-a7033666.html#gallery)
 
+#### Судан
+* [Наказание за внебрачные связи и «вероотступничество»](http://www.pravmir.ru/10-hristian-podvergavshihsya-presledovaniyam-v-xxi-veke/)
+* [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
+
 #### Таиланд
 * [Цензура Интернета](https://ria.ru/world/20161026/1480002881.html)
 

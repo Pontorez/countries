@@ -50,6 +50,9 @@
 #### КНДР (Северная Корея)
 * [Диктатура, нарушение прав человека](https://geektimes.ru/post/283392/#comment_9733462)
 
+#### Куба
+* [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+
 #### Мавритания
 * [Побивание камнями за однополые отношения](http://www.independent.co.uk/news/world/gay-lesbian-bisexual-relationships-illegal-in-74-countries-a7033666.html#gallery)
 

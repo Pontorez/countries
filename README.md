@@ -2,6 +2,9 @@
 
 [![License](https://img.shields.io/badge/license-WTFPL-lightgrey.svg)](https://github.com/Pontorez/const/blob/master/LICENSE)
 
+#### Ангола
+* [Высокий уровень преступности](http://macos.livejournal.com/1467817.html)
+
 #### Афганистан
 * [Наказание за употребление спиртного](http://rus.azattyq.org/a/24546666.html)
 

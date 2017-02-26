@@ -38,6 +38,9 @@
 * [Наказание за распитие алкогольных напитков и танцы мужчин с женщинами](http://lb.ua/world/2016/05/28/336292_irane_studentov_prigovorili_99.html)
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 
+#### Испания
+* [Рэпера приговорили к 3,5 года тюрьмы за «оскорбление короля» (Feb 2017)](https://www.gazeta.ru/social/news/2017/02/22/n_9719963.shtml)
+
 #### Казахстан
 * [Блокировка Tor](https://geektimes.ru/post/283392/#comment_9733462)
 
@@ -102,7 +105,7 @@
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 
 #### Таиланд
-* [Цензура Интернета](https://ria.ru/world/20161026/1480002881.html)
+* [Цензура Интернета (Oct 2016)](https://ria.ru/world/20161026/1480002881.html)
 
 #### Танзания
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)

@@ -99,6 +99,7 @@
 
 #### Сомали
 * [3 года тюрьмы за однополые отношения](http://www.independent.co.uk/news/world/gay-lesbian-bisexual-relationships-illegal-in-74-countries-a7033666.html#gallery)
+* [Для обеспечения базовой безопасности туристам необходимо нанимать в сопровождение проводника или еще лучше — вооруженную охрану](http://supercoolpics.com/riskovoe-puteshestvie-rejting-stran-n/)
 
 #### Судан
 * [Наказание за внебрачные связи и «вероотступничество»](http://www.pravmir.ru/10-hristian-podvergavshihsya-presledovaniyam-v-xxi-veke/)

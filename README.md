@@ -37,6 +37,7 @@
 * [Тюремный срок за выкладывание в Instagram фоток в «западном» стиле](https://ria.ru/world/20160516/1434028437.html)
 * [Наказание за распитие алкогольных напитков и танцы мужчин с женщинами](http://lb.ua/world/2016/05/28/336292_irane_studentov_prigovorili_99.html)
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+* [Цензура ТВ](https://www.newsru.com/cinema/01mar2017/oscar.html)
 
 #### Испания
 * [Рэпера приговорили к 3,5 года тюрьмы за «оскорбление короля» (Feb 2017)](https://www.gazeta.ru/social/news/2017/02/22/n_9719963.shtml)

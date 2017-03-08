@@ -20,6 +20,9 @@
 #### Бруней
 * [Побивание камнями за супружескую измену, ампутация конечностей за кражу и избиение плетьми за совершение аборта или употребление алкоголя](http://www.newsru.com/world/22oct2013/sharia_law.html)
 
+#### Бутан
+* [Путешественники вынуждены оплачивать высокую пошлину за каждый день своего пребывания в стране](http://supercoolpics.com/riskovoe-puteshestvie-rejting-stran-n/)
+
 #### Вьетнам
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 
@@ -85,7 +88,7 @@
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 
 #### Россия
-* [Проблемы с соблюдением Конституции](https://github.com/Pontorez/const)
+* [Проблемы с соблюдением Конституции](https://pontorez.github.io/const/)
 
 #### Саудовская Аравия
 * [Смертная казнь за богохульство, гомосексуализм, etc](https://russian.rt.com/article/70233)

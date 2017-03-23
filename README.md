@@ -83,6 +83,7 @@
 
 #### ОАЭ
 * [Наказание за употребление алкоголя](https://chatru.com/index.php/topic,173444.0.html)
+* [Арест за внебрачный секс](https://www.newsru.com/world/09mar2017/couple.html)
 
 #### Пакистан
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)

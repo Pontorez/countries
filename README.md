@@ -32,9 +32,8 @@
 #### Индонезия
 * [Наказание за азартные игры](http://thailand-news.ru/news/aziya/srednevekovye-nakazaniya-slishkom-zhestoko-dlya-asean)
 
-#### Йемен
-* [Наказание за употребление алкоголя](http://regions.ru/news/2397147/)
-* [Отрубание руки за воровство](http://www.religare.ru/2_90512.html)
+#### Иордания
+* [Россиянку задержали за эскорт-услуги (Mar 2017)](https://www.newsru.com/world/12mar2017/sazonova.html)
 
 #### Иран
 * [Тюремный срок за выкладывание в Instagram фоток в «западном» стиле](https://ria.ru/world/20160516/1434028437.html)
@@ -44,6 +43,10 @@
 
 #### Испания
 * [Рэпера приговорили к 3,5 года тюрьмы за «оскорбление короля» (Feb 2017)](https://www.gazeta.ru/social/news/2017/02/22/n_9719963.shtml)
+
+#### Йемен
+* [Наказание за употребление алкоголя](http://regions.ru/news/2397147/)
+* [Отрубание руки за воровство](http://www.religare.ru/2_90512.html)
 
 #### Казахстан
 * [Блокировка Tor](https://geektimes.ru/post/283392/#comment_9733462)

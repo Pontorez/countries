@@ -140,7 +140,7 @@
 * [Минимальная зарплата — 108 EUR в месяц (3200 UAH)](http://index.minfin.com.ua/index/salary/)
 
 #### Филиппины
-* [Россиянину грозит 20 лет тюрьмы за убийство зеленой черепахи](https://www.newsru.com/crime/23may2017/rustourmrdturtle.html)
+* [Россиянину грозит 20 лет тюрьмы за убийство зеленой черепахи (May 2017)](https://www.newsru.com/crime/23may2017/rustourmrdturtle.html)
 
 #### Эфиопия
 * [15 лет тюрьмы за использование Skype](http://www.3dnews.ru/631001)

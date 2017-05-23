@@ -137,7 +137,10 @@
 * [Выездные визы](https://centre1.com/uzbekistan/uzbekistantsy-trebuyut-ot-mirziyoeva-otmenit-vyezdnye-stikery/)
 
 #### Украина
-* [Минимальная зарплата — 58 EUR в месяц (1600 UAH)](https://github.com/Pontorez/const)
+* [Минимальная зарплата — 108 EUR в месяц (3200 UAH)](http://index.minfin.com.ua/index/salary/)
+
+#### Филиппины
+* [Россиянину грозит 20 лет тюрьмы за убийство зеленой черепахи](https://www.newsru.com/crime/23may2017/rustourmrdturtle.html)
 
 #### Эфиопия
 * [15 лет тюрьмы за использование Skype](http://www.3dnews.ru/631001)

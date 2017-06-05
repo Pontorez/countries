@@ -142,8 +142,11 @@
 #### Филиппины
 * [Россиянину грозит 20 лет тюрьмы за убийство зеленой черепахи (May 2017)](https://www.newsru.com/crime/23may2017/rustourmrdturtle.html)
 
+#### Швейцария
+* [Штраф за лайк в Фейсбуке (May 2017)](http://www.bbc.com/russian/news-40100118)
+
 #### Эфиопия
 * [15 лет тюрьмы за использование Skype](http://www.3dnews.ru/631001)
 
 #### Южная Корея
-* [Армейского капитана осудили за однополый секс с солдатом](https://www.newsru.com/world/25may2017/capitan.html)
+* [Армейского капитана осудили за однополый секс с солдатом (May 2017)](https://www.newsru.com/world/25may2017/capitan.html)

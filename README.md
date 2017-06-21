@@ -23,6 +23,9 @@
 #### Бутан
 * [Путешественники вынуждены оплачивать высокую пошлину за каждый день своего пребывания в стране](http://supercoolpics.com/riskovoe-puteshestvie-rejting-stran-n/)
 
+#### Венесуэла
+* [Диктатор Мадуро, экономический кризис (Jun 2017)](https://www.depo.ua/ukr/svit/u-venesuelskih-antiprezidentskih-protestah-zaginuli-vzhe-72-lyudini-20170616590331)
+
 #### Вьетнам
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 

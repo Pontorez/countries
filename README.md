@@ -132,6 +132,7 @@
 
 #### Турция
 * Диктатор Эрдоган
+* [Цензура интернета](https://www.lowendtalk.com/discussion/96089/openvpn-is-also-banned-in-turkey)
 
 #### Уганда
 * [Наказание за однополый секс](http://zib.com.ua/ru/76090-ot_gomoseksualizma_v_nigerii_izbavlyayutsya_s_pomoschyu_plet.html)

@@ -65,7 +65,7 @@
 
 #### КНДР (Северная Корея)
 * [Диктатура, нарушение прав человека](https://geektimes.ru/post/283392/#comment_9733462)
-* [18,4 млн (из 25 млн) живут без электричества, срок службы в армии для мужчин — 10 лет, ВВП/чел — $1700 (213 место)](https://twitter.com/adagamov/status/895149382571626496)
+* [18,4 млн (из 25 млн) живут без электричества, срок службы в армии для мужчин — 10 лет, ВВП/чел — $1700 (213-е&#160;место)](https://twitter.com/adagamov/status/895149382571626496)
 
 #### Куба
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
@@ -97,6 +97,7 @@
 
 #### Россия
 * [Проблемы с соблюдением Конституции](https://pontorez.github.io/const/)
+* [Минимальная зарплата — 112 EUR в месяц](https://pontorez.github.io/const/)
 
 #### Саудовская Аравия
 * [Смертная казнь за богохульство, гомосексуализм, etc](https://russian.rt.com/article/70233)
@@ -142,7 +143,7 @@
 * [Выездные визы](https://centre1.com/uzbekistan/uzbekistantsy-trebuyut-ot-mirziyoeva-otmenit-vyezdnye-stikery/)
 
 #### Украина
-* [Минимальная зарплата — 108 EUR в месяц (3200 UAH)](http://index.minfin.com.ua/index/salary/)
+* [Минимальная зарплата — 106 EUR в месяц (3200 UAH)](http://index.minfin.com.ua/index/salary/)
 
 #### Филиппины
 * [Россиянину грозит 20 лет тюрьмы за убийство зеленой черепахи (May 2017)](https://www.newsru.com/crime/23may2017/rustourmrdturtle.html)

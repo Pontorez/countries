@@ -60,6 +60,9 @@
 #### Катар
 * [Наказание за употребление алкоголя и внебрачные половые связи](http://gosindex.ru/news/iznasilovannaya-gollandka-byla-osuzhdena-za-vnebrachnuyu-svyaz)
 
+#### Кения
+* [В Кении запретили полиэтиленовые пакеты: за их использование можно получить 4 года (Aug 2017)](https://www.newsru.com/world/28aug2017/keniabanbag.html)
+
 #### КНР (Китай)
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 

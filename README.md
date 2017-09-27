@@ -70,6 +70,9 @@
 * [Диктатура, нарушение прав человека](https://geektimes.ru/post/283392/#comment_9733462)
 * [18,4 млн (из 25 млн) живут без электричества, срок службы в армии для мужчин — 10 лет, ВВП/чел — $1700 (213-е&#160;место)](https://twitter.com/adagamov/status/895149382571626496)
 
+#### Конго
+* [Две группировки убили тысячи людей, соревнуясь в колдовстве (Aug 2017)](https://www.newsru.com/world/04aug2017/witchcraft.html)
+
 #### Куба
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 
@@ -105,7 +108,6 @@
 #### Саудовская Аравия
 * [Смертная казнь за богохульство, гомосексуализм, etc](https://russian.rt.com/article/70233)
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
-* [Женщинам запрещено садиться за руль](https://auto.mail.ru/article/53442-zhenshchin_za_rulem_priravnyali_k_terroristam/)
 
 #### Сингапур
 * [Штрафы за еду в общественном месте и жевание жвачки](http://zib.com.ua/ru/118488-kak_zhivetsya_v_strane_priznannoy_luchshey_dlya_inostrancev.html)

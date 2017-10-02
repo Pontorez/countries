@@ -50,6 +50,7 @@
 #### Йемен
 * [Наказание за употребление алкоголя](http://regions.ru/news/2397147/)
 * [Отрубание руки за воровство](http://www.religare.ru/2_90512.html)
+* [Эпидемия холеры (Sep 2017)](https://www.newsru.com/world/29sep2017/yemen.html)
 
 #### Казахстан
 * [Блокировка Tor](https://geektimes.ru/post/283392/#comment_9733462)

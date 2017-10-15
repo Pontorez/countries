@@ -129,6 +129,7 @@
 #### Таиланд
 * [Цензура Интернета (Oct 2016)](https://ria.ru/world/20161026/1480002881.html)
 * [Арест за кормление рыбок (Feb 2017)](https://tvzvezda.ru/news/vstrane_i_mire/content/201703070740-1ljm.htm)
+* [За курение электронных сигарет грозит реальный срок (Mar 2017)](http://pattayapeople.ru/news/zapret-elektronnyh-sigaret-v-tailande-pattaya-thailand)
 
 #### Танзания
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)

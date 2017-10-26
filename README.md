@@ -153,6 +153,7 @@
 
 #### Украина
 * [Минимальная зарплата — 106 EUR в месяц (3200 UAH)](http://index.minfin.com.ua/index/salary/)
+* [Облавы на майнеров Bitcoin и других криптовалют (Aug 2017)](http://ubr.ua/ukraine-and-world/events/v-ukraine-nachalis-oblavy-na-majnerov-bitcoin-i-drugih-kriptovaljut-3850520)
 
 #### Филиппины
 * [Россиянину грозит 20 лет тюрьмы за убийство зеленой черепахи (May 2017)](https://www.newsru.com/crime/23may2017/rustourmrdturtle.html)

@@ -108,6 +108,7 @@
 #### Пакистан
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 * [Наказание за т.н. «вероотступничество»](https://news.rambler.ru/articles/38037937-voyna-s-nevernymi-ateizm-atakuet-blizhniy-vostok/)
+* [Запрет на алкоголь и платья](https://thepoint.rabota.ua/rabota-v-oon-zapret-na-alkohol-y-platya-shkoly-bez-devochek-y-zarplaty-v-5000-zhyzn-y-rabota-ukrayntsev-v-pakystane/)
 
 #### Россия
 * [Проблемы с соблюдением Конституции](https://pontorez.github.io/const/)

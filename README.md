@@ -7,6 +7,7 @@
 
 #### Афганистан
 * [Наказание за употребление спиртного](http://rus.azattyq.org/a/24546666.html)
+* [Блокировка Telegram и WhatsApp (Nov 2017)](https://amalgin.dreamwidth.org/6799928.html)
 
 #### Барбадос
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
@@ -46,6 +47,7 @@
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 * [Цензура ТВ](https://www.newsru.com/cinema/01mar2017/oscar.html)
 * [Наказание за т.н. «богохульство»](https://news.rambler.ru/articles/38037937/)
+* [По ящику запрещено показывать женщин в откровенной одежде](https://www.newsru.com/sport/29nov2017/nokexy.html)
 
 #### Испания
 * [Рэпера приговорили к 3,5 года тюрьмы за «оскорбление короля» (Feb 2017)](https://www.gazeta.ru/social/news/2017/02/22/n_9719963.shtml)

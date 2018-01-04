@@ -60,6 +60,7 @@
 
 #### Казахстан
 * [Блокировка Tor](https://geektimes.ru/post/283392/#comment_9733462)
+* [Запрет на анонимные комментарии в Сети (Dec 2017)](https://hitech.newsru.com/article/28dec2017/kaz_comment)
 
 #### Камбоджа
 * [Низкий уровень жизни](http://macos.livejournal.com/1411033.html)

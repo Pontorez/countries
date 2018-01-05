@@ -35,6 +35,9 @@
 * [Наказание за распивание алкогольных напитков](http://islam.ru/news/2013-04-23/7598)
 * [2 года тюрьмы за создание музыкального клипа (Dec 2017)](http://edition.cnn.com/2017/12/13/middleeast/egypt-singer-shyma-ahmed-prison-intl/index.html)
 
+#### Индия
+* [Нарушение прав атеистов (Dec 2017)](https://www.newsru.com/religy/08dec2017/atheismmaimeeprajau.html)
+
 #### Индонезия
 * [Наказание за азартные игры](http://thailand-news.ru/news/aziya/srednevekovye-nakazaniya-slishkom-zhestoko-dlya-asean)
 * [Блокировка Telegram (Jul 2017)](https://www.kommersant.ru/doc/3356463)

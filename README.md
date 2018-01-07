@@ -31,6 +31,9 @@
 #### Вьетнам
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 
+#### Германия
+* [В Германии сатирический журнал заблокировали в Twitter (Jan 2018)](https://www.newsru.com/world/03jan2018/afd.html)
+
 #### Египет
 * [Наказание за распивание алкогольных напитков](http://islam.ru/news/2013-04-23/7598)
 * [2 года тюрьмы за создание музыкального клипа (Dec 2017)](http://edition.cnn.com/2017/12/13/middleeast/egypt-singer-shyma-ahmed-prison-intl/index.html)

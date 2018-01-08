@@ -100,6 +100,7 @@
 
 #### Мальдивы
 * [Наказание за употребление алкоголя вне курортных зон](http://turtella.ru/Maldives/q1832.html)
+* [Нарушение прав атеистов (Dec 2017)](https://www.newsru.com/religy/08dec2017/atheismmaimeeprajau.html)
 
 #### Марокко
 * [Низкий уровень жизни; исламское государство](http://macos.livejournal.com/1446080.html)

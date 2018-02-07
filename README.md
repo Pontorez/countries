@@ -70,6 +70,7 @@
 
 #### Камбоджа
 * [Низкий уровень жизни](http://macos.livejournal.com/1411033.html)
+* [Оскорбление короля Камбоджи стало уголовным преступлением (Feb 2018)](https://www.newsru.com/world/05feb2018/cambking.html)
 
 #### Катар
 * [Наказание за употребление алкоголя и внебрачные половые связи](http://gosindex.ru/news/iznasilovannaya-gollandka-byla-osuzhdena-za-vnebrachnuyu-svyaz)

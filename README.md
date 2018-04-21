@@ -94,6 +94,9 @@
 #### Куба
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 
+#### Ливия
+* [Рынки рабов (Jul 2017)](https://korrespondent.net/world/3866099-smy-posle-kaddafy-v-lyvyy-otkrylys-rynky-rabov)
+
 #### Мавритания
 * [Побивание камнями за однополые отношения](http://www.independent.co.uk/news/world/gay-lesbian-bisexual-relationships-illegal-in-74-countries-a7033666.html#gallery)
 

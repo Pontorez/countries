@@ -135,6 +135,7 @@
 * [Минимальная зарплата в России меньше, чем в Ираке, Гвинее и Косово (Jan 2018)](https://twitter.com/MBKhMedia/status/951851183760662529)
 * [89-е место (из 113) в рейтинге верховенства закона (Feb 2018)](https://www.newsru.com/russia/04feb2018/lawlist.html)
 * [148-е место (из 180) в рейтинге свободы прессы (Apr 2018)](https://www.newsru.com/world/25apr2018/rsfreiting.html)
+* [Россия оказалась в пятерке лидеров по распространенности преступлений против бизнеса (May 2018)](https://www.newsru.com/finance/16may2018/rucrime.html)
 
 #### Саудовская Аравия
 * [Смертная казнь за богохульство, гомосексуализм, etc](https://russian.rt.com/article/70233)

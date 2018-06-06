@@ -180,6 +180,7 @@
 * [Наказание за однополый секс](http://zib.com.ua/ru/76090-ot_gomoseksualizma_v_nigerii_izbavlyayutsya_s_pomoschyu_plet.html)
 * [Детей массово приносят в жертву для борьбы с засухой (Sep 2017)](https://www.newsru.com/world/27sep2017/uganda.html)
 * [Президент Йовери Мусевени призвал своих сограждан отказаться от орального секса и пригрозил законодательно запретить его (Apr 2018)](https://amalgin.dreamwidth.org/7096614.html)
+* [Ежедневный налог для пользователей соцсетей и мессенджеров (Jun 2018)](https://hitech.newsru.com/article/01jun2018/uganda)
 
 #### Узбекистан
 * [Выездные визы](https://centre1.com/uzbekistan/uzbekistantsy-trebuyut-ot-mirziyoeva-otmenit-vyezdnye-stikery/)

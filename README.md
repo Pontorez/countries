@@ -27,6 +27,7 @@
 #### Венесуэла
 * [Диктатор Мадуро, экономический кризис (Jun 2017)](https://www.depo.ua/ukr/svit/u-venesuelskih-antiprezidentskih-protestah-zaginuli-vzhe-72-lyudini-20170616590331)
 * [Инфляция превысила 4000 % (Nov 2017)](https://www.newsru.com/finance/24nov2017/venezuelinfltn.html)
+* [Минимальная зарплата и пенсия — около $2 (Jun 2018)](https://www.newsru.com/finance/21jun2018/venezuelwgs.html)
 
 #### Вьетнам
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)

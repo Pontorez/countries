@@ -146,7 +146,7 @@
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 
 #### Сингапур
-* [Штрафы за еду в общественном месте и жевание жвачки](http://zib.com.ua/ru/118488-kak_zhivetsya_v_strane_priznannoy_luchshey_dlya_inostrancev.html)
+* [Штрафы за еду́ в общественном месте и жевание жвачки](http://zib.com.ua/ru/118488-kak_zhivetsya_v_strane_priznannoy_luchshey_dlya_inostrancev.html)
 
 #### Сирия
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
@@ -173,6 +173,7 @@
 
 #### Туркменистан
 * [Цензура Интернета, культ личности](http://varlamov.ru/1640740.html)
+* [Власти Туркмении запретили гражданам моложе 40 лет покидать страну (Jun 2018)](https://tjournal.ru/72857-vlasti-turkmenii-zapretili-grazhdanam-molozhe-40-let-pokidat-stranu)
 
 #### Турция
 * Диктатор Эрдоган

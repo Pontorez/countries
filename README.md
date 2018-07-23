@@ -174,6 +174,7 @@
 #### Туркменистан
 * [Цензура Интернета, культ личности](http://varlamov.ru/1640740.html)
 * [В Туркменистане запретили автомобили всех цветов, кроме белого (May 2018)](https://strana.ua/news/139318-v-turkmenistane-zapretili-vse-tsveta-mashin-krome-beloho.html)
+* [Полиция обходит туалеты в поисках тех, кто подтирается портретами президента (May 2018)](https://www.newsru.com/world/22may2018/turkmenia.html)
 * [Власти Туркмении запретили гражданам моложе 40 лет покидать страну (Jun 2018)](https://tjournal.ru/72857-vlasti-turkmenii-zapretili-grazhdanam-molozhe-40-let-pokidat-stranu)
 * [В Туркменистане запретили продажу алкогольных напитков (Jul 2018)](https://rus.azathabar.com/a/29366026.html)
 

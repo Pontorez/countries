@@ -27,7 +27,7 @@
 #### Венесуэла
 * [Диктатор Мадуро, экономический кризис (Jun 2017)](https://www.depo.ua/ukr/svit/u-venesuelskih-antiprezidentskih-protestah-zaginuli-vzhe-72-lyudini-20170616590331)
 * [Инфляция превысила 4000 % (Nov 2017)](https://www.newsru.com/finance/24nov2017/venezuelinfltn.html)
-* [Минимальная зарплата и пенсия — около $2 (Jun 2018)](https://www.newsru.com/finance/21jun2018/venezuelwgs.html)
+* [Средняя зарплата — 30 долларов в месяц (Sep 2018)](https://kungurov.livejournal.com/212451.html)
 
 #### Вьетнам
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
@@ -68,11 +68,11 @@
 * [Эпидемия холеры (Sep 2017)](https://www.newsru.com/world/29sep2017/yemen.html)
 
 #### Казахстан
-* [Блокировка Tor](https://geektimes.ru/post/283392/#comment_9733462)
+* [Блокировка Tor (Dec 2016)](https://habr.com/post/357220/#comment_9733462)
 * [Запрет на анонимные комментарии в Сети (Dec 2017)](https://hitech.newsru.com/article/28dec2017/kaz_comment)
 
 #### Камбоджа
-* [Низкий уровень жизни](http://macos.livejournal.com/1411033.html)
+* [Низкий уровень жизни (Nov 2016)](https://macos.livejournal.com/1411033.html)
 * [Оскорбление короля Камбоджи стало уголовным преступлением (Feb 2018)](https://www.newsru.com/world/05feb2018/cambking.html)
 
 #### Катар
@@ -174,9 +174,10 @@
 #### Туркменистан
 * [Цензура Интернета, культ личности](http://varlamov.ru/1640740.html)
 * [В Туркменистане запретили автомобили всех цветов, кроме белого (May 2018)](https://strana.ua/news/139318-v-turkmenistane-zapretili-vse-tsveta-mashin-krome-beloho.html)
-* [Полиция обходит туалеты в поисках тех, кто подтирается портретами президента (May 2018)](https://www.newsru.com/world/22may2018/turkmenia.html)
-* [Власти Туркмении запретили гражданам моложе 40 лет покидать страну (Jun 2018)](https://tjournal.ru/72857-vlasti-turkmenii-zapretili-grazhdanam-molozhe-40-let-pokidat-stranu)
-* [В Туркменистане запретили продажу алкогольных напитков (Jul 2018)](https://rus.azathabar.com/a/29366026.html)
+* [Запрет подтираться портретами президента (May 2018)](https://www.newsru.com/world/22may2018/turkmenia.html)
+* [Запрет гражданам моложе 40 лет покидать страну (Jun 2018)](https://tjournal.ru/72857-vlasti-turkmenii-zapretili-grazhdanam-molozhe-40-let-pokidat-stranu)
+* [Запрет алкогольных напитков (Jul 2018)](https://rus.azathabar.com/a/29366026.html)
+* [Запрет красить седые волосы (Aug 2018)](https://lenta.ru/news/2018/08/15/hair/)
 
 #### Турция
 * Диктатор Эрдоган

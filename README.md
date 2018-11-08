@@ -170,7 +170,7 @@
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 
 #### Тунис
-* [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+* [Цензура Интернета (Feb 2014)](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
 
 #### Туркменистан
 * [Цензура Интернета, культ личности](http://varlamov.ru/1640740.html)
@@ -179,10 +179,11 @@
 * [Запрет гражданам моложе 40 лет покидать страну (Jun 2018)](https://tjournal.ru/72857-vlasti-turkmenii-zapretili-grazhdanam-molozhe-40-let-pokidat-stranu)
 * [Запрет алкогольных напитков (Jul 2018)](https://rus.azathabar.com/a/29366026.html)
 * [Запрет красить седые волосы (Aug 2018)](https://lenta.ru/news/2018/08/15/hair/)
+* [Дефицит хлеба (Oct 2018)](https://twitter.com/newkc14/status/1052893456132128768)
 
 #### Турция
 * Диктатор Эрдоган
-* [Цензура интернета](https://www.lowendtalk.com/discussion/96089/openvpn-is-also-banned-in-turkey)
+* [Цензура интернета (Nov 2016)](https://www.lowendtalk.com/discussion/96089/openvpn-is-also-banned-in-turkey)
 
 #### Уганда
 * [Наказание за однополый секс](http://zib.com.ua/ru/76090-ot_gomoseksualizma_v_nigerii_izbavlyayutsya_s_pomoschyu_plet.html)

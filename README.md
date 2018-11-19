@@ -31,7 +31,7 @@
 * [Средняя зарплата — 30 долларов в месяц (Sep 2018)](https://kungurov.livejournal.com/212451.html)
 
 #### Вьетнам
-* [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+* [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
 
 #### Германия
 * [В Германии сатирический журнал заблокировали в Twitter (Jan 2018)](https://www.newsru.com/world/03jan2018/afd.html)
@@ -53,7 +53,7 @@
 #### Иран
 * [Тюремный срок за выкладывание в Instagram фоток в «западном» стиле](https://ria.ru/world/20160516/1434028437.html)
 * [Наказание за распитие алкогольных напитков и танцы мужчин с женщинами](http://lb.ua/world/2016/05/28/336292_irane_studentov_prigovorili_99.html)
-* [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+* [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
 * [Цензура ТВ](https://www.newsru.com/cinema/01mar2017/oscar.html)
 * [Наказание за т.н. «богохульство»](https://news.rambler.ru/articles/38037937/)
 * [По ящику запрещено показывать женщин в откровенной одежде](https://www.newsru.com/sport/29nov2017/nokexy.html)
@@ -116,8 +116,8 @@
 #### Молдова
 * [Хреновые дороги (Jun 2017)](https://www.gazeta.ru/auto/news/2017/06/03/n_10131977.shtml)
 
-#### Мьянма
-* Цензура Интернета
+#### Мьянма (Бирма)
+* [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
 
 #### Нигерия
 * [Наказание за однополый секс](http://zib.com.ua/ru/76090-ot_gomoseksualizma_v_nigerii_izbavlyayutsya_s_pomoschyu_plet.html)
@@ -144,13 +144,13 @@
 
 #### Саудовская Аравия
 * [Смертная казнь за богохульство, гомосексуализм, etc](https://russian.rt.com/article/70233)
-* [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+* [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
 
 #### Сингапур
 * [Штрафы за еду́ в общественном месте и жевание жвачки](http://zib.com.ua/ru/118488-kak_zhivetsya_v_strane_priznannoy_luchshey_dlya_inostrancev.html)
 
 #### Сирия
-* [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+* [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
 
 #### Сомали
 * [3 года тюрьмы за однополые отношения](http://www.independent.co.uk/news/world/gay-lesbian-bisexual-relationships-illegal-in-74-countries-a7033666.html#gallery)
@@ -170,7 +170,7 @@
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 
 #### Тунис
-* [Цензура Интернета (Feb 2014)](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
+* [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
 
 #### Туркменистан
 * [Цензура Интернета, культ личности](http://varlamov.ru/1640740.html)
@@ -182,8 +182,9 @@
 * [Дефицит хлеба (Oct 2018)](https://twitter.com/newkc14/status/1052893456132128768)
 
 #### Турция
-* Диктатор Эрдоган
 * [Цензура интернета (Nov 2016)](https://www.lowendtalk.com/discussion/96089/openvpn-is-also-banned-in-turkey)
+* [Эрдоган — диктатор, Турция — тоталитарная тюрьма (Mar 2018)](http://rusvesna.su/news/1520922039)
+* [Арест за высказывания против Ататюрка (Nov 2018)](https://twitter.com/newkc14/status/1062302410998247424)
 
 #### Уганда
 * [Наказание за однополый секс](http://zib.com.ua/ru/76090-ot_gomoseksualizma_v_nigerii_izbavlyayutsya_s_pomoschyu_plet.html)

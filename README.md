@@ -33,6 +33,7 @@
 * [Диктатор Мадуро, экономический кризис (Jun 2017)](https://www.depo.ua/ukr/svit/u-venesuelskih-antiprezidentskih-protestah-zaginuli-vzhe-72-lyudini-20170616590331)
 * [Инфляция превысила 4000 % (Nov 2017)](https://www.newsru.com/finance/24nov2017/venezuelinfltn.html)
 * [Средняя зарплата — 30 долларов в месяц (Sep 2018)](https://kungurov.livejournal.com/212451.html)
+* [Минимальная зарплата — $6.52 в месяц (Jan 2019)](https://www.interfax.ru/business/646195)
 
 #### Вьетнам
 * [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)

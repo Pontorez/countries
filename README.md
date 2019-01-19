@@ -110,6 +110,7 @@
 
 #### Мавритания
 * [Побивание камнями за однополые отношения](http://www.independent.co.uk/news/world/gay-lesbian-bisexual-relationships-illegal-in-74-countries-a7033666.html#gallery)
+* [60 % населения живёт за чертой бедности (Jan 2019)](https://youtu.be/JRuIUhK1vcc?t=68)
 
 #### Малайзия
 * [25 лет тюрьмы за гомосексуализм](http://paperpaper.ru/once-in-kuala-lumpur/)

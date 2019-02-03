@@ -191,6 +191,7 @@
 * [Запрет алкогольных напитков (Jul 2018)](https://rus.azathabar.com/a/29366026.html)
 * [Запрет красить седые волосы (Aug 2018)](https://lenta.ru/news/2018/08/15/hair/)
 * [Дефицит хлеба (Oct 2018)](https://twitter.com/newkc14/status/1052893456132128768)
+* [Туркменским студентам запретили под расписку веселиться на каникулах (Jan 2019)](https://belaruspartisan.by/life/453154/)
 
 #### Турция
 * [Цензура интернета (Nov 2016)](https://www.lowendtalk.com/discussion/96089/openvpn-is-also-banned-in-turkey)

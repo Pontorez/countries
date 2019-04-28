@@ -226,3 +226,5 @@
 
 #### Южная Корея
 * [Армейского капитана осудили за однополый секс с солдатом (May 2017)](https://www.newsru.com/world/25may2017/capitan.html)
+
+[![Longest-serving leaders](https://pontorez.github.io/countries/assets/img/leaders.png)](https://pontorez.github.io/countries/)

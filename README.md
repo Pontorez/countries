@@ -175,6 +175,7 @@
 * [Наказание за внебрачные связи и «вероотступничество»](http://www.pravmir.ru/10-hristian-podvergavshihsya-presledovaniyam-v-xxi-veke/)
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 * [Несменяемый 30 лет подряд диктатор (Jan 2019)](https://www.inopressa.ru/article/29jan2019/spiegel/sudan.html)
+* [Во время разгона сидячей забастовки в Судане погибло более 30 человек (Jun 2019)](https://www.newsru.com/world/03jun2019/sudan30vctm.html)
 
 #### Таиланд
 * [Цензура Интернета (Oct 2016)](https://ria.ru/world/20161026/1480002881.html)

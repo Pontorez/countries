@@ -76,9 +76,9 @@
 * [Голод стал причиной гибели 84,7 тысяч детей (Nov 2018)](https://twitter.com/newkc14/status/1065214150358564864)
 
 #### Казахстан
-* [Расстрел демонстрации в Жанаозене (Dec 2011)](https://www.fergananews.com/articles/9195)
+* [Расстрел демонстрации в Жанаозене (Dec&#160;2011)](https://www.fergananews.com/articles/9195)
 * [Блокировка Tor (Dec 2016)](https://habr.com/post/357220/#comment_9733462)
-* [Запрет на анонимные комментарии в Сети (Dec 2017)](https://hitech.newsru.com/article/28dec2017/kaz_comment)
+* [Запрет на анонимные комментарии в Сети (Dec&#160;2017)](https://hitech.newsru.com/article/28dec2017/kaz_comment)
 
 #### Камбоджа
 * [Низкий уровень жизни (Nov 2016)](https://macos.livejournal.com/1411033.html)
@@ -88,7 +88,7 @@
 * [Наказание за употребление алкоголя и внебрачные половые связи](http://gosindex.ru/news/iznasilovannaya-gollandka-byla-osuzhdena-za-vnebrachnuyu-svyaz)
 
 #### Кения
-* [В Кении запретили полиэтиленовые пакеты: за их использование можно получить 4 года (Aug 2017)](https://www.newsru.com/world/28aug2017/keniabanbag.html)
+* [В Кении запретили полиэтиленовые пакеты: за&#160;их использование можно получить 4 года (Aug 2017)](https://www.newsru.com/world/28aug2017/keniabanbag.html)
 
 #### КНР (Китай)
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)

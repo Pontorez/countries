@@ -30,10 +30,10 @@
 * [Путешественники вынуждены оплачивать высокую пошлину за каждый день своего пребывания в стране](http://supercoolpics.com/riskovoe-puteshestvie-rejting-stran-n/)
 
 #### Венесуэла
-* [Диктатор Мадуро, экономический кризис (Jun 2017)](https://www.depo.ua/ukr/svit/u-venesuelskih-antiprezidentskih-protestah-zaginuli-vzhe-72-lyudini-20170616590331)
+* [Диктатор Мадуро, экономический кризис (Jun&#160;2017)](https://www.depo.ua/ukr/svit/u-venesuelskih-antiprezidentskih-protestah-zaginuli-vzhe-72-lyudini-20170616590331)
 * [Инфляция превысила 4000 % (Nov 2017)](https://www.newsru.com/finance/24nov2017/venezuelinfltn.html)
-* [Средняя зарплата — 30 долларов в месяц (Sep 2018)](https://kungurov.livejournal.com/212451.html)
-* [Минимальная зарплата — $6.52 в месяц (Jan 2019)](https://www.interfax.ru/business/646195)
+* [Средняя зарплата — 30 долларов в месяц (Sep&#160;2018)](https://kungurov.livejournal.com/212451.html)
+* [Минимальная зарплата — $6.52 в месяц (Jan&#160;2019)](https://www.interfax.ru/business/646195)
 
 #### Вьетнам
 * [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
@@ -54,7 +54,7 @@
 * [Блокировка Telegram (Jul 2017)](https://www.kommersant.ru/doc/3356463)
 
 #### Иордания
-* [Россиянку задержали за эскорт-услуги (Mar 2017)](https://www.newsru.com/world/12mar2017/sazonova.html)
+* [Россиянку задержали за эскорт-услуги (Mar&#160;2017)](https://www.newsru.com/world/12mar2017/sazonova.html)
 
 #### Иран
 * [Тюремный срок за выкладывание в Instagram фоток в «западном» стиле](https://ria.ru/world/20160516/1434028437.html)
@@ -62,12 +62,12 @@
 * [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
 * [Цензура ТВ](https://www.newsru.com/cinema/01mar2017/oscar.html)
 * [Наказание за т.н. «богохульство»](https://news.rambler.ru/articles/38037937/)
-* [По ящику запрещено показывать женщин в откровенной одежде](https://www.newsru.com/sport/29nov2017/nokexy.html)
-* [Женская полиция нравов напала на девушку в «неподобающе надетом хиджабе» — слишко свободно накинутом на&#160;голову (Apr 2018)](https://twitter.com/adagamov/status/987006174544441345)
-* [В Иране полностью запретили Telegram. Заменить его планируют приложением со стикерами «смерть Америке» (Apr 2018)](https://www.newsru.com/world/30apr2018/teleiran.html)
+* [По ящику запрещено показывать женщин в&#160;откровенной одежде](https://www.newsru.com/sport/29nov2017/nokexy.html)
+* [Женская полиция нравов напала на девушку в&#160;«неподобающе надетом хиджабе» — слишко свободно накинутом на&#160;голову (Apr 2018)](https://twitter.com/adagamov/status/987006174544441345)
+* [В Иране полностью запретили Telegram. Заменить его планируют приложением со&#160;стикерами «смерть Америке» (Apr 2018)](https://www.newsru.com/world/30apr2018/teleiran.html)
 
 #### Испания
-* [Рэпера приговорили к 3,5 года тюрьмы за «оскорбление короля» (Feb 2017)](https://www.gazeta.ru/social/news/2017/02/22/n_9719963.shtml)
+* [Рэпера приговорили к 3,5 года тюрьмы за&#160;«оскорбление короля» (Feb 2017)](https://www.gazeta.ru/social/news/2017/02/22/n_9719963.shtml)
 
 #### Йемен
 * [Наказание за употребление алкоголя](http://regions.ru/news/2397147/)
@@ -85,14 +85,14 @@
 * [Оскорбление короля Камбоджи стало уголовным преступлением (Feb 2018)](https://www.newsru.com/world/05feb2018/cambking.html)
 
 #### Катар
-* [Наказание за употребление алкоголя и внебрачные половые связи](http://gosindex.ru/news/iznasilovannaya-gollandka-byla-osuzhdena-za-vnebrachnuyu-svyaz)
+* [Наказание за употребление алкоголя и&#160;внебрачные половые связи](http://gosindex.ru/news/iznasilovannaya-gollandka-byla-osuzhdena-za-vnebrachnuyu-svyaz)
 
 #### Кения
 * [В Кении запретили полиэтиленовые пакеты: за&#160;их использование можно получить 4 года (Aug 2017)](https://www.newsru.com/world/28aug2017/keniabanbag.html)
 
 #### КНР (Китай)
 * [Цензура Интернета](http://www.usatoday.com/story/news/world/2014/02/05/top-ten-internet-censors/5222385/)
-* [Просмотр порно в любых формах (хоть интернет, хоть DVD) является страшным преступлением, за него можно угодить в тюрьму до конца жизни (Aug 2017)](https://geektimes.ru/company/pochtoy/blog/291807/)
+* [Просмотр порно в любых формах (хоть интернет, хоть DVD) является страшным преступлением, за него можно угодить в&#160;тюрьму до конца жизни (Aug 2017)](https://geektimes.ru/company/pochtoy/blog/291807/)
 * [В Китае внедряют систему распознавания людей по походке (Nov 2018)](https://hitech.newsru.com/article/08nov2018/pohodka)
 
 #### КНДР (Северная Корея)
@@ -112,7 +112,7 @@
 
 #### Мавритания
 * [Побивание камнями за однополые отношения](http://www.independent.co.uk/news/world/gay-lesbian-bisexual-relationships-illegal-in-74-countries-a7033666.html#gallery)
-* [60 % населения живёт за чертой бедности (Jan 2019)](https://youtu.be/JRuIUhK1vcc?t=68)
+* [60 % населения живёт за чертой бедности (Jan&#160;2019)](https://youtu.be/JRuIUhK1vcc?t=68)
 
 #### Малайзия
 * [25 лет тюрьмы за гомосексуализм](http://paperpaper.ru/once-in-kuala-lumpur/)
@@ -141,12 +141,12 @@
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 * [Наказание за т.н. «вероотступничество»](https://news.rambler.ru/articles/38037937-voyna-s-nevernymi-ateizm-atakuet-blizhniy-vostok/)
 * [Запрет на алкоголь и платья](https://thepoint.rabota.ua/rabota-v-oon-zapret-na-alkohol-y-platya-shkoly-bez-devochek-y-zarplaty-v-5000-zhyzn-y-rabota-ukrayntsev-v-pakystane/)
-* [Смертный приговор за пердеж в мечети (May 2018)](https://worldnewsdailyreport.com/pakistan-man-sentenced-to-death-for-farting-in-mosque-during-ramadan/)
+* [Смертный приговор за пердеж в мечети (May&#160;2018)](https://worldnewsdailyreport.com/pakistan-man-sentenced-to-death-for-farting-in-mosque-during-ramadan/)
 
 #### Россия
 * [Проблемы с соблюдением Конституции](https://pontorez.github.io/const/)
 * [Россия вошла в пятерку худших стран для пенсионеров (Jul 2017)](https://ria.ru/world/20170720/1498813891.html)
-* [Минимальная зарплата в России меньше, чем в Ираке, Гвинее и Косово (Jan 2018)](https://twitter.com/MBKhMedia/status/951851183760662529)
+* [Минимальная зарплата в России меньше, чем в&#160;Ираке, Гвинее и Косово (Jan 2018)](https://twitter.com/MBKhMedia/status/951851183760662529)
 * [89-е место (из 113) в рейтинге верховенства закона (Feb 2018)](https://www.newsru.com/russia/04feb2018/lawlist.html)
 * [148-е место (из 180) в рейтинге свободы прессы (Apr 2018)](https://www.newsru.com/world/25apr2018/rsfreiting.html)
 * [Россия оказалась в пятерке лидеров по распространенности преступлений против бизнеса (May 2018)](https://www.newsru.com/finance/16may2018/rucrime.html)
@@ -161,7 +161,7 @@
 * [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
 
 #### Сингапур
-* [Штрафы за еду́ в общественном месте и жевание жвачки](http://zib.com.ua/ru/118488-kak_zhivetsya_v_strane_priznannoy_luchshey_dlya_inostrancev.html)
+* [Штрафы за еду́ в общественном месте и&#160;жевание жвачки](http://zib.com.ua/ru/118488-kak_zhivetsya_v_strane_priznannoy_luchshey_dlya_inostrancev.html)
 
 #### Сирия
 * [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
@@ -174,7 +174,7 @@
 #### Судан
 * [Наказание за внебрачные связи и «вероотступничество»](http://www.pravmir.ru/10-hristian-podvergavshihsya-presledovaniyam-v-xxi-veke/)
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
-* [Несменяемый 30 лет подряд диктатор (Jan 2019)](https://www.inopressa.ru/article/29jan2019/spiegel/sudan.html)
+* [Несменяемый 30 лет подряд диктатор (Jan&#160;2019)](https://www.inopressa.ru/article/29jan2019/spiegel/sudan.html)
 * [Во время разгона сидячей забастовки в Судане погибло более 30 человек (Jun 2019)](https://www.newsru.com/world/03jun2019/sudan30vctm.html)
 
 #### Таиланд
@@ -202,12 +202,12 @@
 #### Турция
 * [Цензура интернета (Nov 2016)](https://www.lowendtalk.com/discussion/96089/openvpn-is-also-banned-in-turkey)
 * [Эрдоган — диктатор, Турция — тоталитарная тюрьма (Mar 2018)](http://rusvesna.su/news/1520922039)
-* [Арест за высказывания против Ататюрка (Nov 2018)](https://twitter.com/newkc14/status/1062302410998247424)
+* [Арест за высказывания против Ататюрка (Nov&#160;2018)](https://twitter.com/newkc14/status/1062302410998247424)
 
 #### Уганда
 * [Наказание за однополый секс](http://zib.com.ua/ru/76090-ot_gomoseksualizma_v_nigerii_izbavlyayutsya_s_pomoschyu_plet.html)
-* [Детей массово приносят в жертву для борьбы с засухой (Sep 2017)](https://www.newsru.com/world/27sep2017/uganda.html)
-* [Президент Йовери Мусевени призвал своих сограждан отказаться от орального секса и пригрозил законодательно запретить его (Apr 2018)](https://amalgin.dreamwidth.org/7096614.html)
+* [Детей массово приносят в жертву для борьбы с&#160;засухой (Sep 2017)](https://www.newsru.com/world/27sep2017/uganda.html)
+* [Президент Йовери Мусевени призвал своих сограждан отказаться от орального секса и&#160;пригрозил законодательно запретить его (Apr 2018)](https://amalgin.dreamwidth.org/7096614.html)
 * [Ежедневный налог для пользователей соцсетей и мессенджеров (Jun 2018)](https://hitech.newsru.com/article/01jun2018/uganda)
 
 #### Узбекистан

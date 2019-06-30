@@ -79,6 +79,7 @@
 * [Расстрел демонстрации в Жанаозене (Dec&#160;2011)](https://www.fergananews.com/articles/9195)
 * [Блокировка Tor (Dec 2016)](https://habr.com/post/357220/#comment_9733462)
 * [Запрет на анонимные комментарии в Сети (Dec&#160;2017)](https://hitech.newsru.com/article/28dec2017/kaz_comment)
+* [NetBlocks отметил «тотальные блокировки» Сети 9 мая в Казахстане (May 2019)](https://rus.azattyq.org/a/29930648.html)
 
 #### Камбоджа
 * [Низкий уровень жизни (Nov 2016)](https://macos.livejournal.com/1411033.html)

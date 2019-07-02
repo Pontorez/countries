@@ -9,6 +9,7 @@
 * [Наказание за употребление спиртного](http://rus.azattyq.org/a/24546666.html)
 * [Блокировка Telegram и WhatsApp (Nov 2017)](https://amalgin.dreamwidth.org/6799928.html)
 * [1200 терактов за последние 16 лет (Sep 2018)](https://www.newsru.com/world/06sep2018/afghanistan.html)
+* [С паспортом Афганистана безвизовый въезд возможен всего в 25 стран (Jul 2019)](https://www.newsru.com/russia/02jul2019/indexpassp.html)
 
 #### Барбадос
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)

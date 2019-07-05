@@ -176,7 +176,7 @@
 * [Более 100 человек умерли в Сомали от голода (Mar 2017)](https://www.newsru.com/world/05mar2017/somali.html)
 
 #### Судан
-* [Наказание за внебрачные связи и «вероотступничество»](http://www.pravmir.ru/10-hristian-podvergavshihsya-presledovaniyam-v-xxi-veke/)
+* [Наказание за внебрачные связи и&#160;«вероотступничество»](http://www.pravmir.ru/10-hristian-podvergavshihsya-presledovaniyam-v-xxi-veke/)
 * [Наказание за однополые отношения](http://out-traveler.ru/anti-gay-country/)
 * [Несменяемый 30 лет подряд диктатор (Jan&#160;2019)](https://www.inopressa.ru/article/29jan2019/spiegel/sudan.html)
 * [Во время разгона сидячей забастовки в Судане погибло более 30 человек (Jun 2019)](https://www.newsru.com/world/03jun2019/sudan30vctm.html)
@@ -211,7 +211,7 @@
 #### Уганда
 * [Наказание за однополый секс](http://zib.com.ua/ru/76090-ot_gomoseksualizma_v_nigerii_izbavlyayutsya_s_pomoschyu_plet.html)
 * [Детей массово приносят в жертву для борьбы с&#160;засухой (Sep 2017)](https://www.newsru.com/world/27sep2017/uganda.html)
-* [Президент Йовери Мусевени призвал своих сограждан отказаться от орального секса и&#160;пригрозил законодательно запретить его (Apr 2018)](https://amalgin.dreamwidth.org/7096614.html)
+* [Президент Йовери Мусевени призвал своих сограждан отказаться от орального секса и&#160;пригрозил законодательно запретить его (Apr&#160;2018)](https://amalgin.dreamwidth.org/7096614.html)
 * [Ежедневный налог для пользователей соцсетей и мессенджеров (Jun 2018)](https://hitech.newsru.com/article/01jun2018/uganda)
 
 #### Узбекистан
@@ -220,7 +220,7 @@
 #### Украина
 * [Минимальная зарплата — 106 EUR в месяц (3200 UAH)](http://index.minfin.com.ua/index/salary/)
 * [Облавы на майнеров Bitcoin и других криптовалют (Aug 2017)](http://ubr.ua/ukraine-and-world/events/v-ukraine-nachalis-oblavy-na-majnerov-bitcoin-i-drugih-kriptovaljut-3850520)
-* [Всемирный банк назвал Украину одной из беднейших стран региона (May 2019)](https://www.newsru.com/finance/24may2019/ukr_poorest.html)
+* [Всемирный банк назвал Украину одной из&#160;беднейших стран региона (May 2019)](https://www.newsru.com/finance/24may2019/ukr_poorest.html)
 
 #### Филиппины
 * [Россиянину грозит 20 лет тюрьмы за убийство зеленой черепахи (May 2017)](https://www.newsru.com/crime/23may2017/rustourmrdturtle.html)

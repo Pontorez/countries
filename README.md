@@ -162,6 +162,7 @@
 #### Саудовская Аравия
 * [Смертная казнь за богохульство, гомосексуализм, etc](https://russian.rt.com/article/70233)
 * [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
+* [Смертная казнь за критику власти (Apr 2019)](https://www.eg.ru/society/accident/727358-v-saudovskoy-aravii-studenta-obezglavili-za-soobshchenie-v-whatsapp-083279/)
 
 #### Сингапур
 * [Штрафы за еду́ в общественном месте и&#160;жевание жвачки](http://zib.com.ua/ru/118488-kak_zhivetsya_v_strane_priznannoy_luchshey_dlya_inostrancev.html)

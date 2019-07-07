@@ -225,6 +225,9 @@
 #### Филиппины
 * [Россиянину грозит 20 лет тюрьмы за убийство зеленой черепахи (May 2017)](https://www.newsru.com/crime/23may2017/rustourmrdturtle.html)
 
+#### Франция
+* [Во Франции криминализовали клиентов проституток (Apr 2016)](http://firstsocial.info/news/vo-frantsii-kriminalizovali-klientov-prostitutok)
+
 #### Швейцария
 * [Штраф за лайк в Фейсбуке (May 2017)](http://www.bbc.com/russian/news-40100118)
 

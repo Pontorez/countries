@@ -35,6 +35,7 @@
 * [Инфляция превысила 4000 % (Nov 2017)](https://www.newsru.com/finance/24nov2017/venezuelinfltn.html)
 * [Средняя зарплата — 30 долларов в месяц (Sep&#160;2018)](https://kungurov.livejournal.com/212451.html)
 * [Минимальная зарплата — $6.52 в месяц (Jan&#160;2019)](https://www.interfax.ru/business/646195)
+* [ООН обвинила власти Венесуэлы в использовании эскадронов смерти (Jul&#160;2019)](https://www.newsru.com/world/05jul2019/venezuela.html)
 
 #### Вьетнам
 * [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)

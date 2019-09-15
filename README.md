@@ -59,14 +59,15 @@
 * [Россиянку задержали за эскорт-услуги (Mar&#160;2017)](https://www.newsru.com/world/12mar2017/sazonova.html)
 
 #### Иран
-* [Тюремный срок за выкладывание в Instagram фоток в «западном» стиле](https://ria.ru/world/20160516/1434028437.html)
-* [Наказание за распитие алкогольных напитков и танцы мужчин с женщинами](http://lb.ua/world/2016/05/28/336292_irane_studentov_prigovorili_99.html)
+* [Тюремный срок за выкладывание в Instagram фоток в «западном» стиле (May 2016)](https://ria.ru/world/20160516/1434028437.html)
+* [Наказание за распитие алкогольных напитков и танцы мужчин с женщинами (May 2016)](http://lb.ua/world/2016/05/28/336292_irane_studentov_prigovorili_99.html)
 * [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
-* [Цензура ТВ](https://www.newsru.com/cinema/01mar2017/oscar.html)
-* [Наказание за т.н. «богохульство»](https://news.rambler.ru/articles/38037937/)
-* [По ящику запрещено показывать женщин в&#160;откровенной одежде](https://www.newsru.com/sport/29nov2017/nokexy.html)
+* [Цензура ТВ (Mar 2017)](https://www.newsru.com/cinema/01mar2017/oscar.html)
+* [Наказание за т.н. «богохульство» (Sep 2017)](https://news.rambler.ru/articles/38037937/)
+* [По ТВ запрещено показывать женщин в&#160;«откровенной одежде» (Nov 2017)](https://www.newsru.com/sport/29nov2017/nokexy.html)
 * [Женская полиция нравов напала на девушку в&#160;«неподобающе надетом хиджабе» — слишком свободно накинутом на&#160;голову (Apr 2018)](https://twitter.com/adagamov/status/987006174544441345)
 * [В Иране полностью запретили Telegram. Заменить его планируют приложением со&#160;стикерами «смерть Америке» (Apr 2018)](https://www.newsru.com/world/30apr2018/teleiran.html)
+* [Футбольная болельщица, которой грозила тюрьма за поход на стадион, сожгла себя (Sep 2019)](https://www.newsru.com/sport/11sep2019/burn.html)
 
 #### Испания
 * [Рэпера приговорили к 3,5 года тюрьмы за&#160;«оскорбление короля» (Feb 2017)](https://www.gazeta.ru/social/news/2017/02/22/n_9719963.shtml)

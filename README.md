@@ -54,6 +54,7 @@
 #### Индонезия
 * [Наказание за азартные игры](http://thailand-news.ru/news/aziya/srednevekovye-nakazaniya-slishkom-zhestoko-dlya-asean)
 * [Блокировка Telegram (Jul 2017)](https://www.kommersant.ru/doc/3356463)
+* [Преследование атеистов (Jul 2018)](https://www.kommersant.ru/doc/3356463)
 
 #### Иордания
 * [Россиянку задержали за эскорт-услуги (Mar&#160;2017)](https://www.newsru.com/world/12mar2017/sazonova.html)

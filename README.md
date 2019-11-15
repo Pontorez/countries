@@ -211,6 +211,7 @@
 * [Дефицит хлеба (Oct 2018)](https://twitter.com/newkc14/status/1052893456132128768)
 * [В Туркменистане начали блокировать VPN, нарушителей вызывают в министерство любви (Jan 2019)](https://kun.uz/ru/news/2019/01/21/v-turkmenistane-nachali-blokirovat-vpn-narushiteley-vyzyvayut-v-mnb)
 * [Туркменским студентам запретили под расписку веселиться на каникулах (Jan 2019)](https://belaruspartisan.by/life/453154/)
+* [Ударникам труда «подарили» телевизоры, которые они сами себе купили (Nov 2019)](https://www.newsru.com/world/14nov2019/turkmentv.html)
 
 #### Турция
 * [Цензура интернета (Nov 2016)](https://www.lowendtalk.com/discussion/96089/openvpn-is-also-banned-in-turkey)

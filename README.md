@@ -49,7 +49,7 @@
 * [2 года тюрьмы за создание музыкального клипа (Dec 2017)](http://edition.cnn.com/2017/12/13/middleeast/egypt-singer-shyma-ahmed-prison-intl/index.html)
 
 #### Индия
-* [Поклонение](https://twitter.com/newkc14/status/1129704252606169088/video/1) [коровам](https://twitter.com/newkc14/status/1236695557156061184)
+* [Поклонение](https://twitter.com/newkc14/status/1129704252606169088) [коровам](https://twitter.com/newkc14/status/1236695557156061184)
 * [Нарушение прав атеистов (Dec 2017)](https://www.newsru.com/religy/08dec2017/atheismmaimeeprajau.html)
 
 #### Индонезия

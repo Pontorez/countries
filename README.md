@@ -244,6 +244,7 @@
 
 #### Шри-Ланка
 * [Низкий уровень жизни (Dec 2017)](https://macos.livejournal.com/1635367.html)
+* [Зоологу грозит 40 лет тюрьмы за сбор мёртвых жуков (May 2020)](https://www.newsru.com/world/13may2020/ignatenko.html)
 
 #### Эфиопия
 * [15 лет тюрьмы за использование Skype](http://www.3dnews.ru/631001)

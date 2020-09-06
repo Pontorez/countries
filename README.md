@@ -21,6 +21,7 @@
 * Диктатура, [блокировка Tor](https://habr.com/post/357220/)
 * [Рабские работы «по распределению» после окончания ВУЗа](http://www.pravo.by/document/?guid=3871&p0=hk1100243)
 * [Обязательная идентификация пользователей интернета (Dec 2018)](https://www.newsru.com/world/30nov2018/bel.html)
+* [Почти 50 человек обратились в ООН из-за пыток протестующих в Белоруссии (Sep 2020)](https://www.newsru.com/world/03sep2020/tortbelrusun.html)
 
 #### Болгария
 * [Низкий уровень жизни (Dec 2017)](https://macos.livejournal.com/1635367.html)
@@ -252,4 +253,4 @@
 #### Южная Корея
 * [Армейского капитана осудили за однополый секс с солдатом (May 2017)](https://www.newsru.com/world/25may2017/capitan.html)
 
-[![Longest-serving leaders](https://pontorez.github.io/countries/assets/img/leaders.png)](https://pontorez.github.io/countries/)
+[![Longest-serving leaders](https://pontorez.github.io/countries/assets/img/leaders.jpg)](https://www.statista.com/chart/17576/longest-serving-world-leaders/)

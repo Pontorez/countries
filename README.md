@@ -110,6 +110,7 @@
 * [Средняя зарплата — от 1 до 4 долларов](https://lurkmore.to/%D0%9A%D0%9D%D0%94%D0%A0#.D0.9D.D0.B5.D1.81.D1.83.D1.89.D0.B5.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BD.D0.B5.D0.B4.D0.BE.D1.81.D1.82.D0.B0.D1.82.D0.BA.D0.B8)
 * [10 млн человек живут на грани голода](https://www.newsru.com/world/03may2019/kndrfamine.html)
 * [Женщине грозит уголовка за то, что при пожаре спасала детей, а не портреты правящего поросенка и его папы (Jan 2020)](https://www.bild.de/politik/ausland/politik-ausland/nordkorea-frau-rettet-ihre-kinder-aber-kim-portraets-verbrennen-jetzt-droht-ihr-67268902.bild.html)
+* [Северным корейцам приказали сдавать «буржуазных» домашних собак на «ресторанное мясо» на фоне нехватки продовольствия (Aug 2020)](https://www.inopressa.ru/article/18aug2020/dailymail/dogs.html)
 
 #### Конго
 * [Две группировки убили тысячи людей, соревнуясь в колдовстве (Aug 2017)](https://www.newsru.com/world/04aug2017/witchcraft.html)

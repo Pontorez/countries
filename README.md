@@ -89,6 +89,7 @@
 * [Запрет на анонимные комментарии в Сети (Dec&#160;2017)](https://hitech.newsru.com/article/28dec2017/kaz_comment)
 * [NetBlocks отметил «тотальные блокировки» Сети 9 мая в Казахстане (May 2019)](https://rus.azattyq.org/a/29930648.html)
 * [Государственная хакерская атака на пользователей Интернета (Jul 2019)](https://lj.rossia.org/users/tiphareth/2224917.html)
+* [Задержания участников митингов, призывающих к бойкоту парламентских выборов (Jan 2021)](https://www.newsru.com/world/10jan2021/qazakhprotest.html)
 
 #### Камбоджа
 * [Низкий уровень жизни (Nov 2016)](https://macos.livejournal.com/1411033.html)

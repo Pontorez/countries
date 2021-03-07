@@ -23,6 +23,7 @@
 * [Обязательная идентификация пользователей интернета (Dec 2018)](https://www.newsru.com/world/30nov2018/bel.html)
 * [Почти 50 человек обратились в ООН из-за пыток протестующих в Белоруссии (Sep 2020)](https://www.newsru.com/world/03sep2020/tortbelrusun.html)
 * [Жительница Минска получила два месяца ареста за «циничную» и «оскорбительную» надпись «Жыве Беларусь» (Nov 2020)](https://www.newsru.com/world/12nov2020/zhive.html)
+* [Журналисток приговорили к двум годам колонии за стрим (Feb 2021)](https://www.newsru.com/world/18feb2021/stream_bondar.html)
 
 #### Болгария
 * [Низкий уровень жизни (Dec 2017)](https://macos.livejournal.com/1635367.html)
@@ -165,7 +166,7 @@
 * [Россия оказалась в пятерке лидеров по распространенности преступлений против бизнеса (May 2018)](https://www.newsru.com/finance/16may2018/rucrime.html)
 * [114-е место (из 137) в рейтинге стран по качеству доро́г (Jun 2018)](https://auto.newsru.com/article/04jun2018/dorogi)
 * [Карательная психиатрия, как во времена СССР (Jul 2018)](https://regnum.ru/news/2441715.html)
-* [Бродячие](https://www.newsru.com/russia/18Feb2005/dog.html) [собаки](https://ria.ru/incidents/20180824/1527187732.html) [нападают](https://ria.ru/incidents/20181108/1532404605.html) [на](https://ria.ru/incidents/20180817/1526735350.html) [людей](https://ria.ru/incidents/20180406/1518082420.html) [(Feb 2005 - Jan 2021)](https://rostovgazeta.ru/news/incident/10-01-2021/treh-chelovek-pokusali-brodyachie-sobaki-v-novocherkasske)
+* [Бродячие](https://www.newsru.com/russia/18Feb2005/dog.html) [собаки](https://ria.ru/incidents/20180824/1527187732.html) [нападают](https://ria.ru/incidents/20181108/1532404605.html) [на](https://ria.ru/incidents/20180817/1526735350.html) [людей](https://ria.ru/incidents/20180406/1518082420.html) [(Feb 2005 - Jan 2021)](https://rg.ru/2021/01/12/reg-dfo/v-ulan-ude-staia-sobak-napala-na-rebenka.html)
 * [Россия вошла в двадцатку самых убогих экономик мира (Apr 2019)](https://www.svoboda.org/a/29889886.html)
 * [Россия вновь упала в рейтинге свободы слова «Репортеров без границ» (Apr 2019)](https://www.svoboda.org/a/29886868.html)
 * [ВИЧ на России прогрессирует: болен каждый сотый житель в 13 регионах (Jul 2019)](https://www.newsru.com/russia/03jul2019/vich_one.html)
@@ -219,7 +220,7 @@
 * [Ударникам труда «подарили» телевизоры, которые они сами себе купили (Nov 2019)](https://www.newsru.com/world/14nov2019/turkmentv.html)
 
 #### Турция
-* [Цензура интернета (Nov 2016)](https://www.lowendtalk.com/discussion/96089/openvpn-is-also-banned-in-turkey)
+* [Цензура Интернета (Nov 2016)](https://www.lowendtalk.com/discussion/96089/openvpn-is-also-banned-in-turkey)
 * [Эрдоган — диктатор, Турция — тоталитарная тюрьма (Mar 2018)](http://rusvesna.su/news/1520922039)
 * [Арест за высказывания против Ататюрка (Nov&#160;2018)](https://twitter.com/newkc14/status/1062302410998247424)
 

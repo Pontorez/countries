@@ -143,6 +143,7 @@
 
 #### Мьянма (Бирма)
 * [Цензура Интернета (Sep 2016)](https://le-vpn.com/ru/top-10-censorship-countries/)
+* [Военная диктатура (Feb 2021)](https://www.kommersant.ru/doc/4671767)
 
 #### Нигерия
 * [Наказание за однополый секс](http://zib.com.ua/ru/76090-ot_gomoseksualizma_v_nigerii_izbavlyayutsya_s_pomoschyu_plet.html)
@@ -166,7 +167,7 @@
 * [Россия оказалась в пятерке лидеров по распространенности преступлений против бизнеса (May 2018)](https://www.newsru.com/finance/16may2018/rucrime.html)
 * [114-е место (из 137) в рейтинге стран по качеству доро́г (Jun 2018)](https://auto.newsru.com/article/04jun2018/dorogi)
 * [Карательная психиатрия, как во времена СССР (Jul 2018)](https://regnum.ru/news/2441715.html)
-* [Бродячие](https://www.newsru.com/russia/18Feb2005/dog.html) [собаки](https://ria.ru/incidents/20180824/1527187732.html) [нападают](https://ria.ru/incidents/20181108/1532404605.html) [на](https://ria.ru/incidents/20180817/1526735350.html) [людей](https://ria.ru/incidents/20180406/1518082420.html) [(Feb 2005 - Jan 2021)](https://rg.ru/2021/01/12/reg-dfo/v-ulan-ude-staia-sobak-napala-na-rebenka.html)
+* [Бродячие](http://www.animalsprotectiontribune.ru/nnnnZ5.html) [собаки](https://ria.ru/incidents/20180824/1527187732.html) [нападают](https://ria.ru/incidents/20181108/1532404605.html) [на](https://ria.ru/incidents/20180817/1526735350.html) [людей](https://ria.ru/incidents/20180406/1518082420.html) [(Jun 2001 - Mar 2021)](https://kuzpress.ru/incident/12-03-2021/80632.html)
 * [Россия вошла в двадцатку самых убогих экономик мира (Apr 2019)](https://www.svoboda.org/a/29889886.html)
 * [Россия вновь упала в рейтинге свободы слова «Репортеров без границ» (Apr 2019)](https://www.svoboda.org/a/29886868.html)
 * [ВИЧ на России прогрессирует: болен каждый сотый житель в 13 регионах (Jul 2019)](https://www.newsru.com/russia/03jul2019/vich_one.html)

@@ -24,6 +24,7 @@
 * [Почти 50 человек обратились в ООН из-за пыток протестующих в Белоруссии (Sep 2020)](https://www.newsru.com/world/03sep2020/tortbelrusun.html)
 * [Жительница Минска получила два месяца ареста за «циничную» и «оскорбительную» надпись «Жыве Беларусь» (Nov 2020)](https://www.newsru.com/world/12nov2020/zhive.html)
 * [Журналисток приговорили к двум годам колонии за стрим (Feb 2021)](https://www.newsru.com/world/18feb2021/stream_bondar.html)
+* [Цензура Интернета (May 2021)](https://www.newsru.com/world/22may2021/spotrsru_block.html)
 
 #### Болгария
 * [Низкий уровень жизни (Dec 2017)](https://macos.livejournal.com/1635367.html)
@@ -91,6 +92,7 @@
 * [NetBlocks отметил «тотальные блокировки» Сети 9 мая в Казахстане (May 2019)](https://rus.azattyq.org/a/29930648.html)
 * [Государственная хакерская атака на пользователей Интернета (Jul 2019)](https://lj.rossia.org/users/tiphareth/2224917.html)
 * [Задержания участников митингов, призывающих к бойкоту парламентских выборов (Jan 2021)](https://www.newsru.com/world/10jan2021/qazakhprotest.html)
+* [Казахский правозащитник получил семь лет за интервью о притеснении русских (Aug 2021)](https://lenta.ru/news/2021/08/19/kaz_rus/)
 
 #### Камбоджа
 * [Низкий уровень жизни (Nov 2016)](https://macos.livejournal.com/1411033.html)
@@ -167,7 +169,7 @@
 * [Россия оказалась в пятерке лидеров по распространенности преступлений против бизнеса (May 2018)](https://www.newsru.com/finance/16may2018/rucrime.html)
 * [114-е место (из 137) в рейтинге стран по качеству доро́г (Jun 2018)](https://auto.newsru.com/article/04jun2018/dorogi)
 * [Карательная психиатрия, как во времена СССР (Jul 2018)](https://regnum.ru/news/2441715.html)
-* [Бродячие](http://www.animalsprotectiontribune.ru/nnnnZ5.html) [собаки](https://ria.ru/incidents/20180824/1527187732.html) [нападают](https://ria.ru/incidents/20181108/1532404605.html) [на](https://ria.ru/incidents/20180817/1526735350.html) [людей](https://ria.ru/incidents/20180406/1518082420.html) [(Jun 2001 - Mar 2021)](https://kuzpress.ru/incident/12-03-2021/80632.html)
+* [Бродячие](http://www.animalsprotectiontribune.ru/nnnnZ5.html) [собаки](https://ria.ru/incidents/20180824/1527187732.html) [нападают](https://ria.ru/incidents/20181108/1532404605.html) [на](https://ria.ru/incidents/20180817/1526735350.html) [людей](https://ria.ru/incidents/20180406/1518082420.html) [(Jun 2001 - Aug 2021)](https://krasnodarmedia.su/news/1148204/)
 * [Россия вошла в двадцатку самых убогих экономик мира (Apr 2019)](https://www.svoboda.org/a/29889886.html)
 * [Россия вновь упала в рейтинге свободы слова «Репортеров без границ» (Apr 2019)](https://www.svoboda.org/a/29886868.html)
 * [ВИЧ на России прогрессирует: болен каждый сотый житель в 13 регионах (Jul 2019)](https://www.newsru.com/russia/03jul2019/vich_one.html)

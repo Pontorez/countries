@@ -93,6 +93,7 @@
 * [Государственная хакерская атака на пользователей Интернета (Jul 2019)](https://lj.rossia.org/users/tiphareth/2224917.html)
 * [Задержания участников митингов, призывающих к бойкоту парламентских выборов (Jan 2021)](https://www.newsru.com/world/10jan2021/qazakhprotest.html)
 * [Казахский правозащитник получил семь лет за интервью о притеснении русских (Aug 2021)](https://lenta.ru/news/2021/08/19/kaz_rus/)
+* [Парламент Казахстана одобрил в первом чтении поправки о блокировке иностранных интернет-сервисов (Sep 2021)](https://www.currenttime.tv/a/kazakhstan-internet-cenzura/31461994.html)
 
 #### Камбоджа
 * [Низкий уровень жизни (Nov 2016)](https://macos.livejournal.com/1411033.html)
@@ -169,7 +170,7 @@
 * [Россия оказалась в пятерке лидеров по распространенности преступлений против бизнеса (May 2018)](https://www.newsru.com/finance/16may2018/rucrime.html)
 * [114-е место (из 137) в рейтинге стран по качеству доро́г (Jun 2018)](https://auto.newsru.com/article/04jun2018/dorogi)
 * [Карательная психиатрия, как во времена СССР (Jul 2018)](https://regnum.ru/news/2441715.html)
-* [Бродячие](http://www.animalsprotectiontribune.ru/nnnnZ5.html) [собаки](https://ria.ru/incidents/20180824/1527187732.html) [нападают](https://ria.ru/incidents/20181108/1532404605.html) [на](https://ria.ru/incidents/20180817/1526735350.html) [людей](https://ria.ru/incidents/20180406/1518082420.html) [(Jun 2001 - Aug 2021)](https://krasnodarmedia.su/news/1148204/)
+* [Бродячие](http://www.animalsprotectiontribune.ru/nnnnZ5.html) [собаки](https://ria.ru/incidents/20180824/1527187732.html) [нападают](https://ria.ru/incidents/20181108/1532404605.html) [на](https://ria.ru/incidents/20180817/1526735350.html) [людей](https://ria.ru/incidents/20180406/1518082420.html) [(Jun 2001 - Sep 2021)](https://saratov.mk.ru/incident/2021/09/10/v-saratove-staya-sobak-iskusala-pensionerku.html)
 * [Россия вошла в двадцатку самых убогих экономик мира (Apr 2019)](https://www.svoboda.org/a/29889886.html)
 * [Россия вновь упала в рейтинге свободы слова «Репортеров без границ» (Apr 2019)](https://www.svoboda.org/a/29886868.html)
 * [ВИЧ на России прогрессирует: болен каждый сотый житель в 13 регионах (Jul 2019)](https://www.newsru.com/russia/03jul2019/vich_one.html)

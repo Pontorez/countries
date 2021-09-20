@@ -222,6 +222,7 @@
 * [В Туркменистане начали блокировать VPN, нарушителей вызывают в министерство любви (Jan 2019)](https://kun.uz/ru/news/2019/01/21/v-turkmenistane-nachali-blokirovat-vpn-narushiteley-vyzyvayut-v-mnb)
 * [Туркменским студентам запретили под расписку веселиться на каникулах (Jan 2019)](https://belaruspartisan.by/life/453154/)
 * [Ударникам труда «подарили» телевизоры, которые они сами себе купили (Nov 2019)](https://www.newsru.com/world/14nov2019/turkmentv.html)
+* [В Ашхабаде полиция запрещает парням и девушкам находиться вместе в парках (Sep 2021)](https://www.currenttime.tv/a/turkmenistan-politsiya-nravov/31469569.html)
 
 #### Турция
 * [Цензура Интернета (Nov 2016)](https://www.lowendtalk.com/discussion/96089/openvpn-is-also-banned-in-turkey)
@@ -248,6 +249,7 @@
 
 #### Франция
 * [Во Франции криминализовали клиентов проституток (Apr 2016)](http://firstsocial.info/news/vo-frantsii-kriminalizovali-klientov-prostitutok)
+* [Штраф 10 тыс. евро](https://pn14.info/?p=199382) за [карикатуру](http://pontorez.net/obeis-fais-toi-vacciner) на Макрона (Sep 2021)
 
 #### Швейцария
 * [Штраф за лайк в Фейсбуке (May 2017)](http://www.bbc.com/russian/news-40100118)

@@ -253,7 +253,7 @@
 * [Штраф 10 тыс. евро](https://pn14.info/?p=199382) за [карикатуру](http://pontorez.net/obeis-fais-toi-vacciner) на Макрона (Sep 2021)
 
 #### Швейцария
-* [Штраф за лайк в Фейсбуке (May 2017)](http://www.bbc.com/russian/news-40100118)
+* [Штраф за лайк в Фейсбуке (May&#160;2017)](http://www.bbc.com/russian/news-40100118)
 
 #### Шри-Ланка
 * [Низкий уровень жизни (Dec 2017)](https://macos.livejournal.com/1635367.html)
@@ -263,6 +263,6 @@
 * [15 лет тюрьмы за использование Skype](http://www.3dnews.ru/631001)
 
 #### Южная Корея
-* [Армейского капитана осудили за однополый секс с солдатом (May 2017)](https://www.newsru.com/world/25may2017/capitan.html)
+* [Армейского капитана осудили за однополый секс с солдатом (May&#160;2017)](https://www.newsru.com/world/25may2017/capitan.html)
 
 [![Longest-serving leaders](https://pontorez.github.io/countries/assets/img/leaders.jpg)](https://www.statista.com/chart/17576/longest-serving-world-leaders/)

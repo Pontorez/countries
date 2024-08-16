@@ -35,6 +35,9 @@
 #### Бутан
 * [Путешественники вынуждены оплачивать высокую пошлину за каждый день своего пребывания в стране](http://supercoolpics.com/riskovoe-puteshestvie-rejting-stran-n/)
 
+#### Великобритания
+* [20 месяцев тюрьмы за пост в интернете (Aug 2024)](https://t.me/evanews22/48582)
+
 #### Венесуэла
 * [Диктатор Мадуро, экономический кризис (Jun&#160;2017)](https://www.depo.ua/ukr/svit/u-venesuelskih-antiprezidentskih-protestah-zaginuli-vzhe-72-lyudini-20170616590331)
 * [Инфляция превысила 4000 % (Nov 2017)](https://www.newsru.com/finance/24nov2017/venezuelinfltn.html)
